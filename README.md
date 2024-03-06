@@ -1,18 +1,16 @@
-### Hi there 👋
-
-<!--
-**Mimi8O/Mimi8O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <a href="https://000321.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="https://florentine-antelope-3ec.notion.site/2024-07e3a1b594aa472f8b7e3da678166733?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<a href="jdme123@naver.com" target="_blank"><img src="https://img.shields.io/badge/jdme123@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+
+Hi there 👋 Welcome to Hyangim's Github 😄  
+I am a student in the **Department of Intelligent Mechatronics Engineering💻** at Sejong University.  
+I am interested in **Computer Vision** research and **Front-end** development.
+
+I love taking pictures, so I'm trying to get out more often! 📸
+
+### Skills
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
