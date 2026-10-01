@@ -2,8 +2,8 @@
 <a href="jdme123@naver.com" target="_blank"><img src="https://img.shields.io/badge/jdme123@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 Hi there 👋 Welcome to Hyangim's Github 😄  
-I am a student in the **Department of Intelligent Mechatronics Engineering💻** at Sejong University.  
-I am interested in **Computer Vision** research and **Front-end** development.
+I am a M.S student in the **Department of Artificial Intelligence and Robotics💻** at Sejong University.  
+I am interested in **Computer Vision** research and **Edge AI** development.
 
 I love taking pictures, so I'm trying to get out more often! 📸
 
