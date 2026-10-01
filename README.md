@@ -1,5 +1,4 @@
 <a href="https://000321.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
-<a href="https://florentine-antelope-3ec.notion.site/2024-07e3a1b594aa472f8b7e3da678166733?pvs=4" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
 <a href="jdme123@naver.com" target="_blank"><img src="https://img.shields.io/badge/jdme123@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 Hi there 👋 Welcome to Hyangim's Github 😄  
